@@ -1,0 +1,8 @@
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/17_PipeAndFilters/Pipes_G3/src/Library/bin/Debug/netcoreapp3.1/PipesAndFilters.deps.json
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/17_PipeAndFilters/Pipes_G3/src/Library/bin/Debug/netcoreapp3.1/PipesAndFilters.dll
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/17_PipeAndFilters/Pipes_G3/src/Library/bin/Debug/netcoreapp3.1/PipesAndFilters.pdb
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/17_PipeAndFilters/Pipes_G3/src/Library/obj/Debug/netcoreapp3.1/Library.csprojAssemblyReference.cache
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/17_PipeAndFilters/Pipes_G3/src/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfoInputs.cache
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/17_PipeAndFilters/Pipes_G3/src/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfo.cs
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/17_PipeAndFilters/Pipes_G3/src/Library/obj/Debug/netcoreapp3.1/PipesAndFilters.dll
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/17_PipeAndFilters/Pipes_G3/src/Library/obj/Debug/netcoreapp3.1/PipesAndFilters.pdb
